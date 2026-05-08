@@ -1,0 +1,20 @@
+# Build and Dependency Directories
+node_modules/
+backend/target/
+frontend/node_modules/
+frontend/dist/
+
+# IDEs and Tools
+.idea/
+.vscode/
+*.swp
+*.swo
+.gemini/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+.env.*
